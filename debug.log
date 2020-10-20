@@ -1,0 +1,10 @@
+[0530/133946.484:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[0530/133946.500:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0530/133946.503:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[0717/121003.588:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[0717/121003.604:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0717/121003.607:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[0717/141253.195:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[0717/141253.205:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0717/141253.215:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0717/141253.218:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
